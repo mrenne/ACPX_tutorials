@@ -1,11 +1,5 @@
 # Rock Paper Scissors
 
-## Introduction @unplugged
-
-![Cartoon of the Rock Paper Scissors game](/static/mb/projects/a4-motion.png)
-
-Use the accelerometer and the screen to build a **Rock Paper Scissors** game that you can play with your friends!
-
 ## Step 1 @fullscreen
 
 Add a ``||input:on shake||`` block to run code when when you shake the @boardname@.
